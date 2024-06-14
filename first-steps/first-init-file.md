@@ -76,3 +76,5 @@ mkdir -p entry plugins core
     - `plugins`, which is where all our plugin configurations go.
     - `core`, which contains some basic options like colorscheme or keymapping.
 
+- So, that's the end of the first step. For the next step, I will install the lazy.nvim plugin manager, then some other
+plugins.
