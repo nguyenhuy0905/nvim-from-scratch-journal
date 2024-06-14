@@ -9,4 +9,4 @@ setting up Neovim from scratch, it's not like it's my first time configuring Neo
 
 ## Chapters
 
-1. First steps
+- First config files and plugins [read here](./first-steps/first-init-file.md)
