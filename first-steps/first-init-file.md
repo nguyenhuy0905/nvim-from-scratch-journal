@@ -96,3 +96,7 @@ mkdir -p entry plugins core
 
 - So, that's the end of the first step. For the next step, I will install the
 lazy.nvim plugin manager, then some other plugins.
+
+## Next chapter
+
+- [First plugins](./first-plugins.md)
