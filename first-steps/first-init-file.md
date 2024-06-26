@@ -39,8 +39,8 @@ nvim
 
 ## The first file(s)
 
-- First, let's create an entrypoint. Neovim will, by default, look for ~/.config/nvim/init.lua, I think?
-So, let's get that going.
+- First, let's create an entrypoint. Neovim will, by default, look for
+~/.config/nvim/init.lua, I think? So, let's get that going.
 
 ```bash
 # setting up a basic file structure
