@@ -75,9 +75,24 @@ mkdir -p entry plugins core
   - `~/.config/nvim/lua`, which is where Neovim automatically seek any
   further Lua files
   - Inside this directory, I created 3 other directories:
-    - `entry`, which contains another `init.lua` file, for now.
+    - `colorscheme`, dedicated for colorscheme configs.
+    - `entry`, which contains another `init.lua` file alongside all the other
+    plugin declarations.
     - `plugins`, which is where all our plugin configurations go.
-    - `core`, which contains some basic options like colorscheme or keymapping.
+    - `core`, which contains some basic options like which colorscheme to use
+    or keymapping.
+
+- For now, the tree looks like so:
+
+```text
+.config/nvim
+  ├ init.lua
+  └ lua
+    ├ colorscheme
+    ├ core
+    ├ entry
+    └ plugins
+```
 
 - So, that's the end of the first step. For the next step, I will install the
 lazy.nvim plugin manager, then some other plugins.
