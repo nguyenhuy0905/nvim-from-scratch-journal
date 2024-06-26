@@ -9,7 +9,7 @@ setting up Neovim from scratch, it's not like it's my first time configuring Neo
 
 ## Where is the setup?
 
-- See it on [my Dotfile repo](https://github.com/nguyenhuy0905/my-dotfile).
+- See it on [my Dotfile repo](https://github.com/nguyenhuy0905/my-dotfile/tree/master/nvim/.config/nvim).
 
 ## Chapters
 
